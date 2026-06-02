@@ -1,3 +1,4 @@
+package Day01;
 /*
 https://leetcode.com/problems/pascals-triangle/description/
 

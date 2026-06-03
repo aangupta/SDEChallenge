@@ -54,3 +54,7 @@ class Solution {
         return maxSum;
     }
 }
+
+//Approach 2 : Divide and Conquer (Merge Sort)
+//TC - O(nlogn)
+//SC - O(logn)
